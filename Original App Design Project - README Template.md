@@ -78,3 +78,12 @@ It is a weather application that will cater towards the general public viewing t
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+## Week 10 
+[X] Found lottie animations for later use
+[X] Implemented Network Request for OpenWeatherAPI
+[X]Implemeted forcast structure for later use.
+
+##FEEDBACK 
+I UNDERSTAND THAT WE'VE BEEN USING THE STORY BOARD BUT OUR TEAM DECIDED TO TAKE A DIFFERENT DIRECTION IN TERM OF USING SWIFT UI. WOULD THERE BE ANY PROBLEMS MOVING FOWARD IN USING THIS STILL? MODIFCATIONS WILL BE MAKE IF ACCORDING TO YOUR ANSWER. 
