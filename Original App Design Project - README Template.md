@@ -85,5 +85,10 @@ It is a weather application that will cater towards the general public viewing t
 [X] Implemented Network Request for OpenWeatherAPI
 [X]Implemeted forcast structure for later use.
 
+### App Walkthrough GIF
+Part 1 Initial
+
+<img src="https://github.com/SirGeraud/StormCall/blob/main/Screen%20Recording%202021-03-28%20at%2011.50.58%20PM.gif?raw=true" width=250><br>
+
 ##FEEDBACK 
 I UNDERSTAND THAT WE'VE BEEN USING THE STORYBOARD INTERFACE BUT OUR TEAM DECIDED TO TAKE A DIFFERENT DIRECTION IN TERMS OF USING SWIFT UI. WOULD THERE BE ANY PROBLEMS MOVING FORWARD USING SWIFTUI INTERFACE? MODIFCATIONS WILL BE MADE ACCORDING TO YOUR ANSWER. 
