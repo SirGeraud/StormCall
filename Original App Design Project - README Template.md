@@ -90,12 +90,17 @@ Part 1 Initial
 
 <img src="https://github.com/SirGeraud/StormCall/blob/main/Screen%20Recording%202021-03-28%20at%2011.50.58%20PM.gif?raw=true" width=250><br>
 
-##FEEDBACK 
+## FEEDBACK 
 I UNDERSTAND THAT WE'VE BEEN USING THE STORYBOARD INTERFACE BUT OUR TEAM DECIDED TO TAKE A DIFFERENT DIRECTION IN TERMS OF USING SWIFT UI. WOULD THERE BE ANY PROBLEMS MOVING 
 FORWARD USING SWIFTUI INTERFACE? MODIFCATIONS WILL BE MADE ACCORDING TO YOUR ANSWER. 
 
-Week 11
+## Week 11
 [X] Completed implementing city view models
-
-
 This week we will start to include our weather animations inside the view constroller
+
+## Week 12 
+[]X Implemented weather animations inside view controller.
+
+We were not able to implement the weather animations due to a syntax error that stems from macOS compatibility issues. We are debugging and searching for a work around.
+
+<img src="https://github.com/SirGeraud/StormCall/blob/main/unit%2012%20gif%20showing%20errors.gif?raw=true" width=250><br>
